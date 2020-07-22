@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+
+}
+h1{
+	margin: 0;
+	font-size: 60px;
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+	line-height: 1.6;
+	color: #fff;
+
+}
+.bg{
+	text-align: center;
+	padding: 135px 15%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.banner01{
+	background-image: url(../image/pic1.jpeg);
+}
+
+.banner02{
+	background-image: url(../image/pic2.jpeg);
+}
+.banner03{
+	background-image: url(../image/pic3.jpeg);
+}
+.banner04{
+	background-image: url(../image/pic4.jpeg);
+}
+.banner05{
+	background-image: url(../image/pic5.jpeg);
+}
+.banner06{
+	background-image: url(../image/pic6.jpeg);
+}
+
+.content-text{
+	background: #4a464666;
+	padding: 50px 50px;
+	color: #fff;
+}
